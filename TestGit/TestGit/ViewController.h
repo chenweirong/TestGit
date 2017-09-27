@@ -24,5 +24,7 @@
 
 -(void)showMyAddress;
 
+-(void)showMyInfo;
+
 @end
 

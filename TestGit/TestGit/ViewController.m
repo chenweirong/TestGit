@@ -31,6 +31,10 @@
     NSLog(@"address=%@",self.address);
 }
 
+-(void)showMyInfo{
+    NSLog(@"myInfo=%@",self.address);
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
