@@ -16,9 +16,13 @@
 
 @property (nonatomic) NSString *sex;
 
+@property (nonatomic) NSString *address;
+
 -(void)showMyName;
 
 -(void)showMyAge;
+
+-(void)showMyAddress;
 
 @end
 
