@@ -12,6 +12,7 @@
 
 @property (nonatomic) NSString *myName;
 
+-(void)showMyName;
 
 @end
 

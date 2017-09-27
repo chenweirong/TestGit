@@ -19,6 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+-(void)showMyName{
+    NSLog(@"myName=%@",self.myName);
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
