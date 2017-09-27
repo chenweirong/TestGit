@@ -39,6 +39,10 @@
     NSLog(@"myTel=%@",self.tel);
 }
 
+-(void)showNetWork{
+    NSLog(@"network is good!");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
