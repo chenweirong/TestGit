@@ -18,6 +18,8 @@
 
 @property (nonatomic) NSString *address;
 
+@property (nonatomic) NSString *tel;
+
 -(void)showMyName;
 
 -(void)showMyAge;
@@ -25,6 +27,8 @@
 -(void)showMyAddress;
 
 -(void)showMyInfo;
+
+-(void)showMyTel;
 
 @end
 
