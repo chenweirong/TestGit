@@ -12,7 +12,11 @@
 
 @property (nonatomic) NSString *myName;
 
+@property (nonatomic) NSInteger myAge;
+
 -(void)showMyName;
+
+-(void)showMyAge;
 
 @end
 
