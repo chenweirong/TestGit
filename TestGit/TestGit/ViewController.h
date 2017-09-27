@@ -28,7 +28,5 @@
 
 -(void)showMyInfo;
 
--(void)showMyTel;
-
 @end
 
