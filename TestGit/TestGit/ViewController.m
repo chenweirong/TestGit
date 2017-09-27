@@ -40,7 +40,7 @@
 }
 
 -(void)showNetWork{
-    NSLog(@"network is good!");
+    NSLog(@"network  good!");
 }
 
 - (void)didReceiveMemoryWarning {
